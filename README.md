@@ -1,4 +1,4 @@
-# XRAY
+# Image Processing of X Ray Images
 \Image Processing through Convolution Neural Network
 I have built an Image Processing System for Digital X-Ray Images to study the lungs of a
 person and predict if it is normal or infected with pneumonia. Also, if infected, the system
