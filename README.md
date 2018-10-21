@@ -17,4 +17,7 @@ typically exhibits a focal lobar consolidation, whereas viral pneumonia manifest
 diffuse ‘‘interstitial’’ pattern in both lungs. These are the patterns that the ML algorithm
 builds on to make predictions on the test set.
 
-(data set from Kaggle)
+Sources:
+Data Set : Kaggle (https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/home)
+Refernces:
+http://cs231n.github.io/convolutional-networks/
