@@ -1,10 +1,9 @@
 # Image Processing of X Ray Images
-Image Processing through Convolution Neural Network/n
+Image Processing through Convolution Neural Network
 
 
 I have built an Image Processing System for Digital X-Ray Images to study the lungs of a
-person and predict if it is normal or infected with pneumonia. Also, if infected, the system
-helps diagnose whether the infection is bacterial pneumonia or viral pneumonia.
+person and predict if it is normal or infected with pneumonia. 
 
 Machine learning is a subset of artificial intelligence in the field of computer science that
 often uses statistical techniques to give computers the ability to &quot;learn&quot; (i.e., progressively
